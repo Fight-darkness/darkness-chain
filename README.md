@@ -1,0 +1,2 @@
+# darkness-chain
+go
